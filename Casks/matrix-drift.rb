@@ -1,6 +1,6 @@
 cask "matrix-drift" do
   version "1.0"
-  sha256 :no_check
+  sha256 "fcf5f91dd7ce74f0bff6bd2ba43f3d0d359c50d8d8577c9ae963a740dd718864"
 
   url "https://github.com/cmsj/MatrixDrift/releases/download/v#{version}/MatrixDrift-#{version}.zip"
   name "Matrix Drift"
