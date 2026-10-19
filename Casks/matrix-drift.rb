@@ -7,7 +7,7 @@ cask "matrix-drift" do
   desc "Screensaver recreating Apple's Drift with streams of Matrix code"
   homepage "https://github.com/cmsj/MatrixDrift"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   screen_saver "MatrixDrift.saver"
 
